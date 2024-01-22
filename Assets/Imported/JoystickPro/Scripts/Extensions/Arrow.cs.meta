@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7cb5493d7e68c5549bb67924cabd7ced
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255569
+  packageName: UltimateJoystick PRO
+  packageVersion: 2.0
+  assetPath: Assets/UltimateJoystickPro/Scripts/Extensions/Arrow.cs
+  uploadId: 630715

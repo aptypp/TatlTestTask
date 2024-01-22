@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49aaf114c67bdf048901ec981845184d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255569
+  packageName: UltimateJoystick PRO
+  packageVersion: 2.0
+  assetPath: Assets/UltimateJoystickPro/Scripts/Extensions/Tail.cs
+  uploadId: 630715

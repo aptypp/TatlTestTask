@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4bfb497640050a14abff1cd25e00160d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255569
+  packageName: UltimateJoystick PRO
+  packageVersion: 2.0
+  assetPath: Assets/UltimateJoystickPro/Scripts/Extensions/Cross.cs
+  uploadId: 630715
